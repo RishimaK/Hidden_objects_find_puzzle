@@ -1,0 +1,157 @@
+{
+    "ChallengeMap" : [
+        {
+            "challengeID" : "Challenge1",
+            "level": 1,
+            "map": 1,
+            "area": [1,2],
+            "item": "target",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge1",
+            "level": 2,
+            "map": 2,
+            "area": [2],
+            "item": "target",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge1",
+            "level": 3,
+            "map": 3,
+            "area": [3,4],
+            "item": "target",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge1",
+            "level": 4,
+            "map": 4,
+            "area": [3,4],
+            "item": "target",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge1",
+            "level": 5,
+            "map": 5,
+            "area": [1,2],
+            "item": "target",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge1",
+            "level": 6,
+            "map": 6,
+            "area": [3,4],
+            "item": "target",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge1",
+            "level": 7,
+            "map": 7,
+            "area": [1,2],
+            "item": "target",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge2",
+            "level": 1,
+            "map": 1,
+            "area": [3,4],
+            "item": "strangeflower1",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge2",
+            "level": 2,
+            "map": 2,
+            "area": [4],
+            "item": "strangeflower1",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge2",
+            "level": 3,
+            "map": 4,
+            "area": [1,2],
+            "item": "strangeflower1",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge2",
+            "level": 4,
+            "map": 6,
+            "area": [1,2],
+            "item": "strangeflower1",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge2",
+            "level": 5,
+            "map": 5,
+            "area": [3,4],
+            "item": "strangeflower1",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge2",
+            "level": 6,
+            "map": 3,
+            "area": [3,4],
+            "item": "strangeflower1",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge3",
+            "level": 1,
+            "map": 4,
+            "area": [1,2],
+            "item": "fish1",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge3",
+            "level": 2,
+            "map": 2,
+            "area": [3,4],
+            "item": "fish1",
+            "quantity": 20,
+            "time": 150
+        },
+        {
+            "challengeID" : "Challenge3",
+            "level": 3,
+            "map": 6,
+            "area": [1,2],
+            "item": "fish1",
+            "quantity": 20,
+            "time": 120
+        },
+        {
+            "challengeID" : "Challenge3",
+            "level": 4,
+            "map": 7,
+            "area": [1,2],
+            "item": "fish1",
+            "quantity": 20,
+            "time": 120
+        }
+    ]
+}

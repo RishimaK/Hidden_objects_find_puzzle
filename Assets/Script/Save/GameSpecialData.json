@@ -1,0 +1,16 @@
+{
+    "SpecialMap" : [
+        {
+            "AreaName": "",
+            "ItemList": null,
+            "QuantityList": null,
+            "Milestones": null
+        },
+        {
+            "AreaName": "CAT CITY",
+            "ItemList": ["babybottle", "soup", "bee", "board", "blender", "flashlight", "ticket", "plant", "hotdog", "task", "mango", "bear", "honey", "guitar", "micro", "breadbag", "ok", "printer", "sausage", "soju", "t-shirt", "vacuumcleaner", "wig", "trashcan", "note", "astronaut", "alcohol", "pepper", "watermelon", "milktea", "jellyfish", "taco", "orange", "sugar", "happydoll", "map", "blackbook", "sofa", "champagne", "shampoo", "diamond", "screen", "socket", "plasticbox", "lightning", "lipstick", "cactus","hamburger", "spraybottle", "bananacat", "camera", "dogdance", "dragonfruit", "loudspeaker", "meowlien", "paperbag", "peanutbutter", "scissors", "milkturtle", "sleepingduck", "stranded", "chocolatecake", "kettle", "trashscoop", "emerald", "sock", "cupnoodles", "bulb", "frog", "pumpkin", "plasticbag", "mouse", "stickynote", "matchbox", "acorn", "donut", "mayonnaise","eggplant", "bat", "onion", "letters", "crutch", "snack", "dorayaki", "shrimp", "fishoil", "glue", "chickenthigh", "catsfighting", "luckyleaf"],
+            "QuantityList": [2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],
+            "Milestones": [25,50,100]
+        }
+    ]
+}

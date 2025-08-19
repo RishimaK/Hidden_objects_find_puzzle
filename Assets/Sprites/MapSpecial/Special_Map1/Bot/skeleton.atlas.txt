@@ -1,0 +1,6 @@
+skeleton.png
+size:420,349
+filter:Linear,Linear
+pma:true
+Bus
+bounds:2,2,416,345

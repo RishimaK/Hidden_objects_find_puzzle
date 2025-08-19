@@ -1,0 +1,15 @@
+skeleton.png
+size:185,122
+filter:Linear,Linear
+pma:true
+Group 4261
+bounds:123,52,60,68
+Group 4262
+bounds:123,22,28,32
+rotate:90
+Layer 8
+bounds:157,20,30,21
+rotate:90
+pngegg (2)
+bounds:2,2,118,119
+rotate:90

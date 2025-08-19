@@ -1,0 +1,8 @@
+skeleton.png
+size:367,88
+filter:Linear,Linear
+pma:true
+Light
+bounds:273,6,92,80
+bt_play
+bounds:2,2,269,84

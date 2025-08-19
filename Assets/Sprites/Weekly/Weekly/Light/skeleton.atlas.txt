@@ -1,0 +1,8 @@
+skeleton.png
+size:363,92
+filter:Linear,Linear
+pma:true
+Light2
+bounds:302,25,59,65
+fr_Soul
+bounds:2,2,298,88

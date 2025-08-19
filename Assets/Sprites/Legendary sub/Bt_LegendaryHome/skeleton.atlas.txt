@@ -1,0 +1,6 @@
+skeleton.png
+size:151,151
+filter:Linear,Linear
+pma:true
+ic_Legendary Home
+bounds:2,2,147,147

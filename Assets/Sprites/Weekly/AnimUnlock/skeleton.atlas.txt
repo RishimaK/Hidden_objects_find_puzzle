@@ -1,0 +1,30 @@
+skeleton.png
+size:1411,492
+filter:Linear,Linear
+pma:true
+Ellipse 592 copy 2
+bounds:529,16,20,20
+Ellipse 592 copy 3
+bounds:529,38,28,28
+Ellipse 592
+bounds:529,38,28,28
+Ellipse 592 copy
+bounds:529,38,28,28
+Ellipse 592 copy 4
+bounds:551,19,17,17
+Group 4326
+bounds:831,17,234,473
+Group 4327
+bounds:1067,265,271,225
+Group 4328
+bounds:1340,307,69,183
+Group 4329
+bounds:529,68,422,300
+rotate:90
+Group 4331
+bounds:1271,79,184,126
+rotate:90
+event
+bounds:1067,41,202,222
+pngegg (4)
+bounds:2,2,525,488
